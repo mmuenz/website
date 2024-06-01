@@ -1,0 +1,21 @@
+/* Example for customizing the space before headers */
+h1 {
+  margin-top: 2em; /* Adjust the value as needed */
+}
+
+h2 {
+  margin-top: 1.6em; /* Adjust the value as needed */
+  margin-bottom: 1.1em; /* Adjust the value as needed */
+  color: rgba(193, 193, 193, 0.791);
+}
+
+h3 {
+  margin-top: 1.2em; /* Adjust the value as needed */
+}
+
+.bloginfo {
+  margin-bottom: 2em; /* Adjust the value as needed */
+  color: rgba(193, 193, 193, 0.791);
+}
+
+/* Add more for h4, h5, h6 if necessary */
