@@ -119,7 +119,7 @@ In "IBM 1401, A User's Manual", Jóhannsson used sounds produced by the IBM 1401
 
 "Some theorists claim humans can simulate anything with a computer, even a soul... and with IBM 1401 - A User’s Manual, Jóhannsson comes chillingly close" - wrote Sal Cinquemani, co-founder and co-editor of Slant Magazine.
 
-Back to the year 2023, I continue to be very excited about computers. It is the year when the general public (hundreds of millians of people) met AI for the first time. Many think machines are getting frighteningly close to mimicking human intelligence. Some fear computers becoming autonomous.
+Back to the year 2023, I continue to be very excited about computers. It is the year when the general public (hundreds of millions of people) met AI for the first time. Many think machines are getting frighteningly close to mimicking human intelligence. Some fear computers becoming autonomous.
 
 Scary indeed. I want to believe what I read at the age of 10 on the first page of the user manual of my first IBM PC: we, humans are still the key element in a properly functioning computer system. We are the ones who plug it together.
 

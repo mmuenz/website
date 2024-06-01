@@ -19,9 +19,9 @@ What is more important is that the Universe is a pretty huge place, full of beau
 
 All human beings are equipped with a different selection of beauty sensors. We are all different. In my eyes, that's yet another manifestation of beauty.
 
-I have a very simply phylosophy. I think we are here to enjoy ourselves. Or to put it another way, to enjoy all the beauty we notice around us. Even if there is no real purpose of our existence, the world is so damn interesting, there is so much beauty and interestingness out there, that living with open eyes, open ears, and open mind can give us more than enough fun for the limited time we spend on this planet.
+I have a simple phylosophy. I think we are here to enjoy ourselves. Or to put it another way, to enjoy all the beauty we notice around us. Even if there is no real purpose of our existence, the world is so damn interesting, there is so much beauty and interestingness out there, that living with open eyes, open ears, and open mind can give us more than enough fun for the limited time we spend on this planet.
 
-There are many different ways of having fun though. Reading a book in a quiet room can induce the same amount of adrenaline as dancing one's ass off in a hardcore Acid Techno party. You can find beauty and joy in a flower, a plate of chocolate raspberry cake, a rock, a smile, a sentence, an old furniture, an integrated circuit, a toilet pump, or an architectural drawing. It is up to you what kind of fun you go for.
+There are many different ways of having fun though. Reading a book in a quiet room might induce the same amount of adrenaline as dancing your ass off in a hardcore Acid Techno party. You can find beauty and joy in a flower, a plate of chocolate raspberry cake, a rock, a smile, a sentence, an old furniture, an integrated circuit, a toilet pump, or an architectural drawing. It is up to you what kind of fun you go for.
 
 Ultimately, you can find beauty in another person, and in yourself.
 
