@@ -9,7 +9,7 @@ title: Blog
 
 <div style="display: flex; margin: 5px;">
     <span style="min-width: 100px; margin-left: 10px;">Nov 11</span>
-    <span style="flex-grow: 1;"><a href="/barcelona">The best television</a> &nbsp; | &nbsp; Life, Barcelona  </span>
+    <span style="flex-grow: 1;"><a href="/television">The best television</a> &nbsp; | &nbsp; Life, Barcelona  </span>
 </div>
 
 <div style="display: flex; margin: 5px">

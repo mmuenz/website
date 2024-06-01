@@ -5,7 +5,7 @@ title: ""
 
 Hello, welcome to my corner in the Cyberspace! 🚀
 
-I'm a Computational Biologist and [Bioinformatician](/bioinformatics) who enjoys writing. I'm currently based in [Barcelona](/barcelona), Spain, but was born in Budapest. I have also lived in Oxford, England for 8 years.
+I'm a Computational Biologist and [Bioinformatician](/bioinformatics) who enjoys writing. I'm currently based in [Barcelona](/television), Spain, but was born in Budapest. I have also lived in Oxford, England for 8 years.
 
 This is me:
 
