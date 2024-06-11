@@ -77,4 +77,4 @@ Who are these people? Where are they coming from - where are they heading?
 
 The only thing that connects us is that we live in the same city. We all have different paths: we have never seen each other before, and will probably never meet again.
 
-Still, we are sharing this moment now.
+Still, we are sharing this moment right now.
