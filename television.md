@@ -69,7 +69,7 @@ You can choose a totally random location. It doesn't matter. Sit there for half 
 
 My favourite spot for people-watching is a bench in Passeig de Sant Joan, a vibrant yet peaceful avenue stretching through Eixample from the Arc de Triomf to the neighborhood of Gràcia. Perhaps you might have read about this boulevard in travel guidebooks for it showcases a range of architectural styles of different periods including modernisme (i.e. Catalan Art Nouveau), neoclassical, neo-gothic, and contemporary architecture.
 
-More importantly for me, it has a wide pedestrian promenade in the middle, lined with tall plane trees. It is often filled with people strolling, walking their dogs, kids playing, couples passing by. It's the perfect place for someone who enjoys witnessing an unchoreographed dance of life's random, seemingly irrelevant and unrelated moments.
+More importantly for me, it has a wide pedestrian promenade in the middle, lined with tall plane trees. It is often filled with people strolling, walking their dogs, kids playing, couples passing by. It's the perfect place for someone who enjoys witnessing the unchoreographed dance of life's random, seemingly irrelevant and unrelated moments.
 
 It's a stream of snapshots from lives of strangers, and I can't imagine a more hypnotic and enriching experience than watching this authentic show of real life for hours.
 
