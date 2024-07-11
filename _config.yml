@@ -1,5 +1,7 @@
 # Setup
-title: Márton Münz's Website
+title: "Márton Münz's Website"
+description: "Dr. Márton Münz's personal website delves into his work as a bioinformatician and IT professional, his broader intestests in computational science, technology, artificial intelligence, and entrepreneurship. Dr. Münz shares his own experience with Alport syndrome, an inherited kidney disease that has shaped both his personal and professional life. His blog on this website discusses a wide range of topics including science, technology, and the human condition."
+keywords: "science, technology, bioinformatics, IT, informatics, artificial intelligence, AI, computational biology, computational science, future, blog, humans, Alport syndrome, life, genetics"
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
