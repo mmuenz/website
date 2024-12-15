@@ -41,7 +41,8 @@ See my selection of comments I found under the YouTube video:
 - "Please folks, he's injured, lets give him some privacy."
 - "I hate the way the audience is laughing at the end."
 - "Why do i feel sad for a robot? I'm more faulty then the technology they used!"
-  Compassion from some people and irony from others. Nevertheless, even commenters who express their amusement or laugh at the video are doing so in a way we laugh at a fellow human being.
+
+Compassion from some people and irony from others. Nevertheless, even commenters who express their amusement or laugh at the video are doing so in a way we laugh at a fellow human being.
 
 This is anthropomorphism, a well studied phenomenon in cognitive psychology.
 
