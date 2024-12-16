@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Things I recommend
+title: Things I like
 ---
 
 <br>
