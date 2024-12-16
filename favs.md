@@ -58,6 +58,7 @@ Here you find some of my favorite things. The following list is NOT comprehensiv
 - George Condo: The Way I Think (2017 - Danish Documentary)
 - Paul Auster, what if? (2021 - American Documentary)
 - Ryuichi Sakamoto: Coda (2017 - American-Japanese Documentary)
+- 32 Sounds (2022 - American Documentary)
 
 ### Articles:
 
