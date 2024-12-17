@@ -113,6 +113,7 @@ Here you find some of my favorite things. The following list is NOT comprehensiv
 - [Marion's Kitchen](https://www.youtube.com/@Marionskitchen) (Cooking)
 - [Pasta Grannies](https://www.youtube.com/@pastagrannies) (Cooking)
 - [Jauja Cocina Mexicana](https://www.youtube.com/@JaujaCocinaMexicana) (Cooking)
+- [Paulygones](https://www.youtube.com/@Paulygones) (Renovation)
 
 <br>
 [Back to About](/about)
