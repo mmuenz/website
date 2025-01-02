@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Bioinformatics?
+title: What (really) is Bioinformatics?
 ---
 
 <br>
