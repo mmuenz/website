@@ -14,7 +14,7 @@ On this page (inspired by web pages such as [this](https://wesbos.com/uses), [th
 
 ### Productivity tools:
 
-- ChatGPT, Perplexity, and Claude for everything
+- ChatGPT / Perplexity / Claude for everything
 - Raycast for searching, and launching apps
 - Raindrop for organizing my bookmarks
 - IFTTT for automation
