@@ -7,7 +7,7 @@ title: The best television
 
 We have Netflix at home. We have Amazon Prime Video. We have Filmin. We have Orange TV including god-knows-how-many channels. We have RTVE Play. We have iTunes. And of course, we have the Youtube app installed on our smart TV. I'm personally subscribed to 614 Youtube channels. My wife? A few hundreds more.
 
-I'm sure you also have a vast selection of shows to choose from when you grab the remote control.
+I'm pretty sure you also have a vast selection of shows to choose from when you grab the remote control.
 
 But have you tried sitting on a bench in a non-touristy neighbourhood in Barcelona and just wait?
 
