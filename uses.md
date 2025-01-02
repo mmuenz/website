@@ -38,7 +38,7 @@ On this page (inspired by web pages such as [this](https://wesbos.com/uses), [th
 ### Development:
 
 - Python, JavaScript, and R as programming languages
-- Visual Studio Code for code editing
+- Cursor for (AI-assisted) code editing
 - React, Tailwind CSS, Express for web dev
 - Jekyll as static website generator (this site was built with Jekyll)
 - RStudio as an IDE for R
