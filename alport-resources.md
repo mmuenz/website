@@ -13,7 +13,7 @@ The ASF offers a variety of resources for patients, including educational materi
 
 ## Alport UK
 
-URL: [https://alportuk.org/](https://alportuk.org/)
+URL: [http://www.alportuk.org/](http://www.alportuk.org/)
 
 This patient-led organization provides various support services, including a Facebook page, Instagram, Twitter, YouTube channel ("Alport Workshops"), and a Young Adult WhatsApp group. They aim to connect individuals affected by Alport Syndrome and offer reliable information about the condition.
 
