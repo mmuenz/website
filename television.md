@@ -21,7 +21,7 @@ You can choose a totally random location. It doesn't matter. Sit there for half 
 
 - You will see the 93-year-old man, with an oxygen tank on his back, entering the bar.
 
-- You will see the two dogs, the big and the small one, jumping around in joy when they notice the little girl blowing soap bubbles. Their owner is in trouble as their leashes are getting tangled.
+- You will see the two dogs, the big and the small one, jumping around in joy when they notice the little girl blowing soap bubbles. Their owner is in trouble because their leashes are getting tangled.
 
 - You will see the elderly couple walking hand in hand, after fifty-two years of marriage.
 
