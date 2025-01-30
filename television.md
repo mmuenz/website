@@ -5,11 +5,11 @@ title: The best television
 
 <div class="bloginfo">Nov 11, 2023  - Life, Barcelona | 5 min read</div>
 
-We have Netflix at home. We have Amazon Prime Video. We have Filmin. We have Orange TV including god-knows-how-many channels. We have RTVE Play. We have iTunes. And of course, we have the Youtube app installed on our smart TV. I'm personally subscribed to 614 Youtube channels. My wife? A few hundreds more.
+We have Netflix at home. We have Amazon Prime Video. We have Filmin. We have Orange TV including God-knows-how-many channels. We have RTVE Play. We have iTunes. And of course, we have the Youtube app installed on our smart TV. I'm personally subscribed to 614 Youtube channels. My wife? A few hundreds more.
 
 I'm pretty sure you also have a vast selection of shows to choose from when you grab the remote control.
 
-But have you tried sitting on a bench in a non-touristy neighbourhood in Barcelona and just wait?
+But have you tried sitting on a bench in a non-touristy neighbourhood in Barcelona and just waiting?
 
 Do nothing, just wait.
 
@@ -19,17 +19,17 @@ You can choose a totally random location. It doesn't matter. Sit there for half 
 
 - You will see the 8-year-old boy in a Messi shirt, although Lionel Messi had left FC Barcelona years ago and now plays for Inter Miami.
 
-- You will see the 93-year-old man, with oxygen tank on his back, entering the bar.
+- You will see the 93-year-old man, with an oxygen tank on his back, entering the bar.
 
-- You will see the two dogs, the big and the small one, jumping around in joy when they notice the little girl blowing soap bubbles. Their owner is in trouble for their leashes are getting tangled.
+- You will see the two dogs, the big and the small one, jumping around in joy when they notice the little girl blowing soap bubbles. Their owner is in trouble as their leashes are getting tangled.
 
 - You will see the elderly couple walking hand in hand, after fifty-two years of marriage.
 
 - You will see the young man jogging with headphones on his ears, singing "Billie Jean is not my lover".
 
-- You will see the silver-haired, grandmotherly lady, shorter than 150 cm, in a pink, flowery dress. She is arguing with a 2-meter-tall, fully armed policeman, telling him off vigorously for not being polite enough.
+- You will see the silver-haired grandmotherly lady, shorter than 150 cm, in a pink flowery dress. She is arguing with a 2-meter-tall, fully armed policeman, telling him off vigorously for not being polite enough.
 
-- You will see a bunch of men, all over 70, playing Pétanque at the end of the street, getting into loud arguments.
+- You will see a bunch of men, all over 70, playing Pétanque at the end of the street, getting into loud argument.
 
 - You will see kids playing football just a few meters away, using the door of City Hall as their goal, and accidentally hitting a passerby on the head.
 
@@ -65,16 +65,16 @@ You can choose a totally random location. It doesn't matter. Sit there for half 
 
 - You will see the guy sitting on a small chair next to the organic food shop, playing flamenco on his guitar, surrounded by a group of friends.
 
-- You will see the children a few steps away drawing something colourful on the sidewalk with chalks.
+- You will see the children a few steps away drawing something colourful on the sidewalk with chalk.
 
 - You will see the blind man escorted by his grandson, telling a joke.
 
-My favourite spot for people-watching is a bench in Passeig de Sant Joan, a vibrant yet peaceful avenue stretching through Eixample from the Arc de Triomf to the neighborhood of Gràcia. Perhaps you might have read about this boulevard in travel guidebooks for it showcases a range of architectural styles of different periods including modernisme (i.e. Catalan Art Nouveau), neoclassical, neo-gothic, and contemporary architecture.
+My favourite spot for people-watching is a bench in Passeig de Sant Joan, a vibrant yet peaceful avenue stretching through Eixample from the Arc de Triomf to the neighborhood of Gràcia. Perhaps you might have read about this boulevard in travel guidebooks as it showcases a range of architectural styles of different periods including modernisme (i.e. Catalan Art Nouveau), neoclassical, neo-gothic, and contemporary architecture.
 
 More importantly for me, it has a wide pedestrian promenade in the middle, lined with tall plane trees. It is often filled with people strolling, walking their dogs, kids playing, couples passing by. It's the perfect place for someone who enjoys witnessing the unchoreographed dance of life's random, seemingly irrelevant and unrelated moments.
 
-It's a stream of snapshots from lives of strangers, and I can't imagine a more hypnotic and enriching experience than watching this authentic show of real life for hours.
+It's a stream of snapshots from the lives of strangers, and I can't imagine a more hypnotic and enriching experience than watching this authentic show of real life for hours.
 
 Who are these people? Where are they coming from - where are they heading?
 
-The only thing that connects us is that we live in the same city. We all have different paths: never seen each other before, and will probably never meet again. Yet here we are, sharing this moment.
+The only thing that connects us is that we live in the same city. We all have different paths: we have never seen each other before and will probably never meet again. Yet here we are, sharing this moment.
